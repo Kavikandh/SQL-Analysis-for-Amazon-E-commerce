@@ -1,7 +1,7 @@
-# SQL-Analysis-for-Amazon-E-commerce
+# SQL-Analysis-for-Global-Superstore
 Global e-commerce sales and profitability analysis using advanced SQL and business-driven insights.
 
-amazon-ecommerce-sql-analysis/
+Global-Superstore-sql-analysis/
 │
 ├── data/
 │   └── ECOMM_DATASET.xlsx
