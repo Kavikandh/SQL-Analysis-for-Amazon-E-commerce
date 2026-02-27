@@ -12,5 +12,7 @@ Global-Superstore-sql-analysis/
 ├── schema.sql
 ├── data_cleaning.sql
 ├── analysis_queries.sql
+    └── kpi_analysis.sql
+    └── advanced_analysis.sql  
 ├── insights.md
 └── README.md
