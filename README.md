@@ -11,7 +11,7 @@ SQL-Analysis-for-Global-Superstore/
 │   └── dashboard-images/
 │       ├── executive-overview.png ![Executive Overview](powerbi-dashboard/dashboard-images/Executive_overview.jpg)
 │       ├── returns-analysis.png
-│       └── growth-analysis.png
+│       └── growth-analysis.png ![Growth Analysis](powerbi-dashboard/dashboard-images/Growth_Analysis.jpg)
 │
 ├── schema.sql
 ├── data_cleaning.sql
