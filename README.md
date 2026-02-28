@@ -29,11 +29,21 @@ This project transforms raw transactional data into actionable business insights
 - Excel/CSV
 
 ## 🔍 Key Business Insights
-- Revenue increased steadily from 2011 to 2014, showing strong year-over-year growth
-- Consumer segment contributes the largest share of total revenue
-- Technology category generates the highest profit margins
-- Product returns negatively impact overall profitability
-- APAC region leads in total sales contribution
+## 🔍 Key Business Insights
+
+- Revenue increased from $2.26M in 2011 to $4.30M in 2014, demonstrating strong and consistent year-over-year growth.
+
+- The Consumer segment contributes the largest share of total revenue, with stable profit margins (~11–12%) across all segments.
+
+- Technology is the most profitable category (13.99% margin), while Furniture generates high revenue but significantly lower margin (6.94%), indicating cost or discount inefficiencies.
+
+- APAC is the top revenue-generating market ($3.59M), showing strong global diversification across EU and US regions as well.
+
+- Profitability declines sharply as discount levels increase. Orders with discounts above 20% frequently generate negative average profit, highlighting pricing risks.
+
+- Several high-value products (e.g., large equipment and furniture items) contribute to cumulative losses, suggesting the need for pricing and cost re-evaluation.
+
+- Regional analysis shows profit imbalance — some regions generate high revenue but relatively low profit, indicating operational optimization opportunities.
   
 SQL-Analysis-for-Global-Superstore/
 │
