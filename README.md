@@ -10,7 +10,7 @@ SQL-Analysis-for-Global-Superstore/
 │   ├── Global-Superstore-Sales-Analysis.pbix
 │   └── dashboard-images/
 │       ├── executive-overview.png ![Executive Overview](powerbi-dashboard/dashboard-images/Executive_overview.jpg)
-│       ├── returns-analysis.png
+│       ├── returns-analysis.png ![Returns Analysis](powerbi-dashboard/dashboard-images/Returns_Analysis.jpg)
 │       └── growth-analysis.png ![Growth Analysis](powerbi-dashboard/dashboard-images/Growth_Analysis.jpg)
 │
 ├── schema.sql
